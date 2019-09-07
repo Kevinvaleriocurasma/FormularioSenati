@@ -1,0 +1,50 @@
+body{
+	background-color: #1A3FCC;
+}
+.bloque{
+	width: 800px;
+	background-color: white;
+	margin: 0 auto;
+	padding: 60px;
+}
+
+.inpu{
+	width: 760px;
+	padding: 15px;
+}
+.entry{
+	width: 795px;
+	padding: 15px;
+}
+i{
+
+	font-size: 18px;
+}
+input{
+	margin-top: 2px;
+}
+select{
+	
+	font-size: 16px;
+}
+.btn{
+	width: 100px;
+	background-color: black;
+	color: white;
+	padding: 12px;
+}
+h3, p {
+	color: black;
+}
+option{
+	color: black;
+}
+.entry1{
+	width: 110px;
+	padding: 13px;
+}
+.bn{
+	width: 280px;
+	padding:13px;
+
+}
